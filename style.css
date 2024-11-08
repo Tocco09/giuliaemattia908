@@ -1,0 +1,15 @@
+.pottini{
+    background-color: cadetblue;
+    text-align: center;
+    border-style: solid;
+    border-color: hsl(hue, saturation, lightness);
+    border-width: 5px;
+    padding: 8px;
+border-radius: 20px;
+
+}
+
+.nav-link{
+    font-size: 20px;
+   color: gray;
+}
